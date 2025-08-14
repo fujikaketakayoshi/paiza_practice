@@ -1,0 +1,9 @@
+3 2
+d a
+k m
+c c
+4
+a k
+k c
+c m
+m d
